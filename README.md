@@ -6,7 +6,7 @@
 [neovim-url]: https://neovim.io/
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruzen42&show_icons=true&theme=merko)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruzen42&layout=compact&exclude_repo=my-dwm-config,nvim,hibrid-game,PasswordGeneratorц,MultiAIClient,MalledeferOWASD,dwm&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruzen42&layout=compact&exclude_repo=mydwm,nvim,hibrid-game,PasswordGeneratorц,MultiAIClient,MalledeferOWASD,dwm&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://linux.org/)
 [![Haskell][haskell-shield]][haskell-url]
