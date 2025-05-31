@@ -6,11 +6,12 @@
 [neovim-url]: https://neovim.io/
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruzen42&show_icons=true&theme=merko)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruzen42&layout=compact&hide=c,css,html&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruzen42&layout=compact&hide=css,html,lua,rofi&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://linux.org/)
-[![Haskell][haskell-shield]][haskell-url]
 [![Neovim][neovim-shield]][neovim-url]
+
+[![Haskell][haskell-shield]][haskell-url]
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
