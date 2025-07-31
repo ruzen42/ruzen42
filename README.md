@@ -6,7 +6,7 @@
 [neovim-url]: https://neovim.io/
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruzen42&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruzen42&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruzen42&layout=compact&theme=tokyonight&hide=lua)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://linux.org/)
 [![Neovim][neovim-shield]][neovim-url]
