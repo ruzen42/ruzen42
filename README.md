@@ -13,12 +13,7 @@
 
 [![Haskell][haskell-shield]][haskell-url]
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/ruzen42/count.svg" />
-</p>
 
 
 
