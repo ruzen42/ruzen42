@@ -8,7 +8,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruzen42&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruzen42&layout=compact&theme=tokyonight&hide=lua,html,css)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ruzen42)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ruzen42&theme=tokyonight)](https://git.io/streak-stats)
 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://linux.org/)
 [![Neovim][neovim-shield]][neovim-url]
