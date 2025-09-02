@@ -11,7 +11,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ruzen42&theme=tokyonight)](https://git.io/streak-stats)
 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://linux.org/)
-[![Neovim][neovim-shield]][neovim-url]
 
 [![Haskell][haskell-shield]][haskell-url]
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
