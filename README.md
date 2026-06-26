@@ -4,10 +4,10 @@
 [haskell-url]: https://www.haskell.org/
 [neovim-shield]: https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white
 [neovim-url]: https://neovim.io/
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruzen42&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruzen42&layout=compact&theme=tokyonight&hide=lua,html,css)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruzen42&show_icons=true&theme=merko)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruzen42&layout=compact&theme=merko&hide=lua,html,css,java)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ruzen42&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ruzen42&theme=merko)](https://git.io/streak-stats)
 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://linux.org/)
 
